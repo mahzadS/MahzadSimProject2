@@ -1,0 +1,23 @@
+﻿  Source.cpp
+  GLM: GLM_MESSAGES is deprecated, use GLM_FORCE_MESSAGES instead
+  GLM: Windows platform detected
+  GLM: version 0.9.8.5
+  GLM: Visual C++ compiler detected
+  GLM: 32 bits model
+  GLM: Platform independent code
+  GLM: C++0x
+  GLM: Language extensions enabled
+  GLM: Swizzling operators disabled, #define GLM_SWIZZLE to enable swizzle operators
+  GLM: Depth clip space: negative one to one
+  GLM: Coordinate system: right handed
+  GLM: .length() returns glm::length_t, a typedef of int following the GLSL specification
+  GLM: Core library included
+  GLM: GLM_GTC_constants extension included
+  GLM: GLM_GTC_matrix_transform extension included
+  GLM: GLM_GTC_quaternion extension included
+  GLM: GLM_GTC_type_ptr extension included
+  GLM: GLM_GTX_norm extension included
+  GLM: GLM_GTX_quaternion extension included
+c:\users\maybe\documents\tomsource\465project1\source.cpp(438): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  465project1.vcxproj -> C:\Users\maybe\Documents\tomSource\465project1\Debug\465project1.exe
+  465project1.vcxproj -> C:\Users\maybe\Documents\tomSource\465project1\Debug\465project1.pdb (Partial PDB)
